@@ -2,9 +2,10 @@
 
 A curated, opinionated slice of [`github/awesome-copilot`](https://github.com/github/awesome-copilot) — the best **agents**, **instructions**, and **skills** for **writing code** and **writing documentation**, plus one-command installers.
 
-Upstream has 224 agents, 192 instructions and 407 skills. This repo picks the ~140 that actually earn their place, groups them into packs, and gives you copy-paste commands.
+Upstream has 224 agents, 192 instructions and 407 skills. This repo picks the **145** that actually earn their place, groups them into packs, and gives you copy-paste commands.
 
 > Verified against upstream `main` on **12 Aug 2026**. Every item listed here was HTTP-checked and exists.
+> `install.sh all` pulls 303 files in ~15 seconds — it fetches only what you asked for, never the (very large) upstream repo tarball.
 
 ---
 
@@ -56,13 +57,14 @@ Then reload VS Code: `Cmd/Ctrl+Shift+P` → **Developer: Reload Window**.
 | Pack | What it is | Items |
 |---|---|---|
 | `core` | The 14 essentials. If you install nothing else, install this. | 14 |
-| `coding` | Writing, refactoring, debugging, TDD | 29 |
-| `docs` | READMEs, ADRs, tutorials, diagrams, doc-drift prevention | 37 |
+| `coding` | Writing, refactoring, debugging, TDD | 30 |
+| `docs` | READMEs, ADRs, tutorials, diagrams, doc-drift prevention | 38 |
 | `quality` | Code review, security, testing | 18 |
 | `planning` | Specs, implementation plans, task breakdown | 18 |
 | `web` | React / Next.js / TypeScript / Tailwind / a11y | 15 |
 | `backend` | Go / Rust / shell / SQL / Docker / CI | 12 |
 | `meta` | Bootstrap a repo's own Copilot config + discovery skills | 12 |
+| `all` | Everything — 145 unique items, 35 agents + 33 instructions + 77 skills | 145 |
 
 ---
 
