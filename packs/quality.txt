@@ -1,0 +1,19 @@
+# QUALITY — review, security, testing, incident response.
+agent:quality-playbook
+agent:wg-code-sentinel
+agent:se-security-reviewer
+agent:se-system-architecture-reviewer
+agent:doublecheck
+instr:security-and-owasp
+instr:code-review-generic
+skill:quality-playbook
+skill:security-review
+skill:codeql
+skill:secret-scanning
+skill:threat-model-analyst
+skill:eval-driven-dev
+skill:webapp-testing
+skill:pytest-coverage
+skill:javascript-typescript-jest
+skill:playwright-generate-test
+skill:incident-postmortem

@@ -1,0 +1,13 @@
+# BACKEND — Go / Rust / shell / SQL / Docker / CI.
+instr:go
+instr:rust
+instr:shell
+instr:containerization-docker-best-practices
+instr:github-actions-ci-cd-best-practices
+instr:devops-core-principles
+skill:sql-code-review
+skill:postgresql-code-review
+skill:multi-stage-dockerfile
+skill:github-actions-hardening
+skill:github-actions-efficiency
+skill:dependabot

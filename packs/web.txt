@@ -1,0 +1,16 @@
+# WEB — React / Next.js / TypeScript / Tailwind / a11y / browser testing.
+agent:expert-react-frontend-engineer
+agent:expert-nextjs-developer
+instr:nextjs
+instr:nextjs-tailwind
+instr:tailwind-v4-vite
+instr:nodejs-javascript-vitest
+instr:playwright-typescript
+instr:a11y
+instr:vue
+instr:svelte
+skill:anti-ui-slop
+skill:premium-frontend-ui
+skill:web-design-reviewer
+skill:chrome-devtools
+skill:playwright-generate-test

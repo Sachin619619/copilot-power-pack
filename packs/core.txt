@@ -1,0 +1,15 @@
+# CORE — the 14 things every project should have. Start here.
+agent:software-engineer-agent-v1
+agent:principal-software-engineer
+agent:swe-subagent
+agent:debug
+agent:critical-thinking
+instr:security-and-owasp
+instr:code-review-generic
+instr:self-explanatory-code-commenting
+instr:taming-copilot
+instr:spec-driven-workflow-v1
+skill:quality-playbook
+skill:security-review
+skill:doublecheck
+skill:conventional-commit

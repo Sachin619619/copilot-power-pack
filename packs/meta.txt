@@ -1,0 +1,13 @@
+# META — bootstrap a repo's own Copilot config, and discover more.
+agent:prompt-builder
+instr:agents
+instr:instructions
+instr:prompt
+skill:copilot-instructions-blueprint-generator
+skill:technology-stack-blueprint-generator
+skill:code-exemplars-blueprint-generator
+skill:project-workflow-analysis-blueprint-generator
+skill:create-agentsmd
+skill:suggest-awesome-github-copilot-agents
+skill:suggest-awesome-github-copilot-instructions
+skill:suggest-awesome-github-copilot-skills

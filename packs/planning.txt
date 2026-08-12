@@ -1,0 +1,19 @@
+# PLANNING — specs, implementation plans, task breakdown.
+agent:task-planner
+agent:task-researcher
+agent:implementation-plan
+agent:plan
+agent:planner
+agent:specification
+instr:spec-driven-workflow-v1
+instr:memory-bank
+skill:create-implementation-plan
+skill:update-implementation-plan
+skill:create-specification
+skill:update-specification
+skill:breakdown-feature-implementation
+skill:breakdown-plan
+skill:breakdown-test
+skill:structured-autonomy-plan
+skill:structured-autonomy-implement
+skill:structured-autonomy-generate
